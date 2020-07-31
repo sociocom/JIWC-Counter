@@ -1,9 +1,9 @@
 # JIWC-Counter
 An automatic tool for getting word counts related to emotions with JIWC dictionary
 
-Works with JIWC dict version 2018 or later.
+Requires JIWC-B csv file version 2018 or later as input argument to work.
 
-#### Dependencies for JIWC-Counter
+#### Requirements for JIWC-Counter
 1. Install Juman++ (recommended ver.1.02) and pyknp (recommended ver.0.3)\
 or\
 MeCab (recommended ver.0.996) and mecab-python3 (recommended ver.1.0.1)
